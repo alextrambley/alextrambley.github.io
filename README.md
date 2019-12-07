@@ -1,8 +1,8 @@
 ![hello_there](https://user-images.githubusercontent.com/52726255/70366689-c9ceff00-185e-11ea-807d-17c33df4c93f.jpg)
 
-You can use the [editor on GitHub](https://github.com/alextrambley/alextrambley.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to Alex Trambley's Project Page!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is where I keep all of the projects that I've worked on since coming to Nashville Software School, and beyond!
 
 ### Markdown
 
