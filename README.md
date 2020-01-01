@@ -17,6 +17,8 @@ Most of the work in this project took place in Python and Excel, with the finali
 
 Utilized Python, Excel, and PowerPoint to investigate scooter usage data from Metro Nashville. Project goal was to make recommendation for scooter density in the city. Worked with a team to analyze over 60 million entries and formulated a zip code density solution for client.
 
+[Here is a link to the presentation that was given to Metro Nashville.](https://docs.google.com/presentation/d/1Hooccq4pzvnUlKaeNy5MBFxLDlBFtaGzxcDarYomEFM/edit#slide=id.g6368e8f001_7_42) The team that I was on was responsible for the density recommendation starting at Part 3.
+
 ## Genesco Retail Sales Project
 
 ## Low Income and Elderly Tax Returns
