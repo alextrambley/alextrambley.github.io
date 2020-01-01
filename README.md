@@ -13,7 +13,9 @@ I chose to base my project around the Academy Awards and the Best Picture award.
 
 Most of the work in this project took place in Python and Excel, with the finalized project being completed in [Tableau](https://public.tableau.com/profile/alex.trambley#!/vizhome/alex_trambley_oscars_capstone/RuntimeWinners?publish=yes) for easy sharing.
 
-## Metro Nashville Scooter Project
+## [Metro Nashville Scooter Project](https://github.com/alextrambley/metro-nash-scooter-analysis)
+
+Utilized Python, Excel, and PowerPoint to investigate scooter usage data from Metro Nashville. Project goal was to make recommendation for scooter density in the city. Worked with a team to analyze over 60 million entries and formulated a zip code density solution for client.
 
 ## Genesco Retail Sales Project
 
