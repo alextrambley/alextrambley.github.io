@@ -7,7 +7,11 @@ This is where I keep all of the projects that I've worked on since coming to Nas
 Below you'll find links to the projects that I've created during my time in the program. With each link I've listed a brief overview of the project, as well as the programs/languages that were used during the project.
 
 
+## [Best Picture Oscar Capstone Project](https://public.tableau.com/profile/alex.trambley#!/vizhome/alex_trambley_oscars_capstone/RuntimeWinners?publish=yes)
 
+I chose to base my project around the Academy Awards and the Best Picture award. This project was intended to look at the history of the award from 1927-2017 to determine what "makes" a winner, and to see if there are associated variables that increase the likelihood of a film winning the prestigious award. I sourced information from the Academy Awards database, as well as [OMDb API](http://www.omdbapi.com/), [IMDb](https://www.imdb.com/), and the [AFI Top 100 List of best all time films](https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/).
+
+Most of the work in this project took place in Python and Excel, with the finalized project being completed in [Tableau](https://public.tableau.com/profile/alex.trambley#!/vizhome/alex_trambley_oscars_capstone/RuntimeWinners?publish=yes) for easy sharing.
 
 ## Metro Nashville Scooter Project
 
